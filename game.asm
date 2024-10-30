@@ -3,7 +3,7 @@
 # CSCB58 Winter 2024 Assembly Final Project 
 # University of Toronto, Scarborough 
 # 
-# Student: Fauzan Ibrahim Zakaria, 1009715122, zakari45, fauzan.zakaria@mail.utoronto.ca 
+# Student: Fauzan Ibrahim Zakaria, fauzan.zakaria@mail.utoronto.ca 
 # 
 # Bitmap Display Configuration: 
 # - Unit width in pixels: 4 
@@ -11,9 +11,6 @@
 # - Display width in pixels: 256  
 # - Display height in pixels: 516 
 # - Base Address for Display: 0x10008000 ($gp) 
-# 
-# Which milestones have been reached in this submission? 
-# - Milestone 4
 # 
 # Which approved features have been implemented for milestone 4? 
 # (See the assignment handout for the list of additional features) 
@@ -24,14 +21,6 @@
 #
 # Link to video demonstration for final submission: 
 # - https://play.library.utoronto.ca/watch/4c225789ee5443f14cfe12b82ff6a551
-# 
-# Are you OK with us sharing the video with people outside course staff? 
-# - yes 
-# Git hub : 
-#
-#
-# Any additional information that the TA needs to know: 
-# - Nope 
 # 
 ##################################################################### 
 .data 
